@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Optional: logs
+logs/
+*.log
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Visual Studio Code
+.vscode/
+
+# Optional: npm
+npm-debug.log*
+
+# Optional: yarn
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: Editor directories and files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode/
+*.code-workspace
+
+# Optional: TypeScript
+*.tsbuildinfo
+
+# Optional: Docker
+Dockerfile*
+docker-compose.yml
+
+# Optional: macOS
+.DS_Store
+
+# Optional: Windows
+Thumbs.db
